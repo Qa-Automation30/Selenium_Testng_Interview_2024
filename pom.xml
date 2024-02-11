@@ -22,7 +22,7 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>H:\Selenium_Testng_Interview_2024\src\${suiteFile}</suiteXmlFile>
+                        <suiteXmlFile>H:\Selenium_Testng_Interview_2024\Selenium_Testng_Interview_2024\src\${suiteFile}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
