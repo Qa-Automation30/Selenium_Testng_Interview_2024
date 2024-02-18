@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6a77b8b-f847-4fff-a189-0412860376ee" name="Changes" comment="">
+    <list default="true" id="c6a77b8b-f847-4fff-a189-0412860376ee" name="Changes" comment="Done">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SmokeSuite/SmokeOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmokeSuite/SmokeOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Selenium_Testng_Interview_2024-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Selenium_Testng_Interview_2024-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +41,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Selenium_Testng_Interview_2024\Selenium_Testng_Interview_2024\src" />
       <recent name="H:\Selenium_Testng_Interview_2024\target" />
       <recent name="H:\Selenium_Testng_Interview_2024\src\test\java\parallelTesting" />
       <recent name="H:\Selenium_Testng_Interview_2024\src\test\java\dynamicTableHandle" />
@@ -149,7 +153,30 @@
       <option name="presentableId" value="Default" />
       <updated>1705121377953</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <created>1708262407440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708262407440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

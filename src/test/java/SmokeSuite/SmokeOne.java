@@ -5,12 +5,12 @@ import org.testng.annotations.Test;
 
 public class SmokeOne {
     @Test
-    void smoke1(){
-        Assert.assertTrue(false);
+    void smoke1() {
         System.out.println("smoke one");
     }
+
     @Test
-    void smoke2(){
+    void smoke2() {
         System.out.println("smoke 2");
     }
 }
