@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6a77b8b-f847-4fff-a189-0412860376ee" name="Changes" comment="Done">
+      <change afterPath="$PROJECT_DIR$/batchRunTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallelClassRun.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/batchTestingConcept/HomeScreenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/batchTestingConcept/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/batchTestingConcept/PaymentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/batchTestingConcept/ProductPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paralleTesting/ChromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paralleTesting/FirefoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paralleTesting/Parallel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SmokeSuite/SmokeOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmokeSuite/SmokeOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Selenium_Testng_Interview_2024-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Selenium_Testng_Interview_2024-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,31 +50,41 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Selenium_Testng_Interview_2024\Selenium_Testng_Interview_2024" />
       <recent name="H:\Selenium_Testng_Interview_2024\Selenium_Testng_Interview_2024\src" />
       <recent name="H:\Selenium_Testng_Interview_2024\target" />
       <recent name="H:\Selenium_Testng_Interview_2024\src\test\java\parallelTesting" />
       <recent name="H:\Selenium_Testng_Interview_2024\src\test\java\dynamicTableHandle" />
-      <recent name="H:\Selenium_Testng_Interview_2024\src\test\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="testNG" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestClass">
-    <configuration name="ClassThree" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.H:/Selenium_Testng_Interview_2024/Selenium_Testng_Interview_2024/batchRunTest.xml">
+    <configuration name="HandleMultiDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HandleMultiDropdown" />
+      <module name="Selenium_Testng_Interview_2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChromeTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Testng_Interview_2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testNG.*" />
+          <option name="PATTERN" value="paralleTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testNG" />
-      <option name="MAIN_CLASS_NAME" value="testNG.ClassThree" />
+      <option name="PACKAGE_NAME" value="paralleTesting" />
+      <option name="MAIN_CLASS_NAME" value="paralleTesting.ChromeTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -73,16 +92,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTwo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ChromeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Testng_Interview_2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testNG.*" />
+          <option name="PATTERN" value="paralleTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testNG" />
-      <option name="MAIN_CLASS_NAME" value="testNG.ClassTwo" />
+      <option name="PACKAGE_NAME" value="paralleTesting" />
+      <option name="MAIN_CLASS_NAME" value="paralleTesting.ChromeTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -90,8 +109,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H:/Selenium_Testng_Interview_2024/target/GroupsConcept.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/GroupsConcept.xml" />
+    <configuration name="H:/Selenium_Testng_Interview_2024/Selenium_Testng_Interview_2024/batchRunTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Testng_Interview_2024" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/batchRunTest.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -99,48 +119,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="batchTestingConcept.HomeScreenTest and 3 more" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Testng_Interview_2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataProvider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataProvider" />
-      <option name="MAIN_CLASS_NAME" value="dataProvider.TestClass" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="PATTERN" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestClass.testCase" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Testng_Interview_2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataProvider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataProvider" />
-      <option name="MAIN_CLASS_NAME" value="dataProvider.TestClass" />
-      <option name="METHOD_NAME" value="testCase" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <patterns>
+        <pattern testClass="batchTestingConcept.HomeScreenTest" />
+        <pattern testClass="batchTestingConcept.LoginTest" />
+        <pattern testClass="batchTestingConcept.PaymentTest" />
+        <pattern testClass="batchTestingConcept.ProductPageTest" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestClass" />
-        <item itemvalue="TestNG.TestClass.testCase" />
-        <item itemvalue="TestNG.H:/Selenium_Testng_Interview_2024/target/GroupsConcept.xml" />
-        <item itemvalue="TestNG.ClassThree" />
-        <item itemvalue="TestNG.ClassTwo (1)" />
+        <item itemvalue="TestNG.H:/Selenium_Testng_Interview_2024/Selenium_Testng_Interview_2024/batchRunTest.xml" />
+        <item itemvalue="TestNG.batchTestingConcept.HomeScreenTest and 3 more" />
+        <item itemvalue="TestNG.ChromeTest" />
+        <item itemvalue="TestNG.ChromeTest (1)" />
+        <item itemvalue="Application.HandleMultiDropdown" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708262407440</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Done">
+      <created>1708263458137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708263458137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +180,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done" />
